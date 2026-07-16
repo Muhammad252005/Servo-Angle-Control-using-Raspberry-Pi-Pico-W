@@ -129,7 +129,7 @@ The implementation demonstrates:
 
 # Demonstration
 
-![circuit_diagram]()
+![circuit_diagram](images/input_user1.jpg)
 
 The demonstration showcases:
 
