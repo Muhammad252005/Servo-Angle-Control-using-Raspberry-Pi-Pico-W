@@ -115,7 +115,7 @@ Servo moves to 180°
 
 # Source Code
 
-The complete MicroPython source [code]() for this project is included in this repository.
+The complete MicroPython source [code](code) for this project is included in this repository.
 
 The implementation demonstrates:
 
